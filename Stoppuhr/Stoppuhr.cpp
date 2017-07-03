@@ -22,7 +22,7 @@ int main()
         uBit.sleep(100);
     }
     Startzeit = ( uBit.systemTime() - initTime );
-    uBit.rgb.setColour(MicroBitColor(51, 255, 51, 255));
+    uBit.rgb.setColour(MicroBitColor(51, 204, 0, 255));
     uBit.soundmotor.soundOn(261.626); uBit.sleep(125); uBit.soundmotor.soundOff();
     while (1) {
         if ( uBit.buttonB.isPressed() == true ) {
@@ -32,7 +32,7 @@ int main()
     }
     Endzeit = ( uBit.systemTime() - initTime );
     uBit.rgb.setColour(MicroBitColor(255, 0, 0, 255));
-    uBit.soundmotor.soundOn(261.626); uBit.sleep(125); uBit.soundmotor.soundOff();
+    uBit.soundmotor.soundOn(783.991); uBit.sleep(125); uBit.soundmotor.soundOff();
     Endzeit = Endzeit - Startzeit;
     Endzeit = round(Endzeit / ((float) 1000));
     uBit.display.scroll(ManagedString(Endzeit));

@@ -20,13 +20,13 @@ int main()
         uBit.rgb.off();
         uBit.sleep(wartezeit);
         if ( uBit.buttonA.isPressed() ) {
-            wartezeit = wartezeit - 5;
+            wartezeit = wartezeit - 50;
             if ( wartezeit < 300 ) {
                 wartezeit = 300;
             }
         }
         if ( uBit.buttonB.isPressed() ) {
-            wartezeit = wartezeit + 5;
+            wartezeit = wartezeit + 50;
             if ( wartezeit > 1500 ) {
                 wartezeit = 1500;
             }
