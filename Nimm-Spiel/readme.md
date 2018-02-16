@@ -1,0 +1,1 @@
+Am Anfang sind 12 "Hölzchen" vorhanden. Die Spielerin drückt "A" ein- bis dreimal. Das entspricht der Anzahl der Hölzchen, die sie wegnimmt. Der Calliope nimmt anschließend im Zufallsprinzip ebenfalls 1 bis 3 Hölzchen weg. Wenn die Spielerin am Ende genau bei Null landen kann hat sie gewonnen.
