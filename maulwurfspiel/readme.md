@@ -1,0 +1,1 @@
+Links und/oder rechts der Mittelinie tauchen nach dem Zufallsprinzip "Maulwürfe" auf. Durch Drücken der richtigen Tasten ("A" oder "B" oder "A+B") werden die Maulwürfe gefangen. Nach 20 Runden ist das Spiel vorbei und der Spielstand wird angezeigt, gefolgt von einem Smiley (abhängig von Punktzahl). Durch Schütteln kann das Spiel dann neu gestartet werden.
